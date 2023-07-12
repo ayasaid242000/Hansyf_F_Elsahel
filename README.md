@@ -1,5 +1,6 @@
 # Hansyf_F_Elsahel
-A Real estate website , this site specialized for selling, purchasing and maintenance of apartments in the North Coast.
+A Real estate website , this site specialized for selling, purchasing ,renting and maintenance services of apartments in the North Coast.
+* I worked on this project as a member of the Front_End team..
 # Demo
 https://github.com/ayasaid242000/Hansyf_F_Elsahel/assets/118894683/7444973d-a64a-4184-bd30-6aae4be7ffbe
 # Home page
